@@ -1,8 +1,6 @@
 # Haskell Binomial Heap
 
-Welcome to the Haskell Binomial Heap repository! 🚀
-
-Explore the world of functional programming with Haskell and dive into the realm of binomial trees and heaps. This project is a journey into the application of functional mechanisms, types, and lazy evaluation, offering you a hands-on experience in building a priority queue.
+ This project is a journey into the application of functional mechanisms, types, and lazy evaluation, offering you a hands-on experience in building a priority queue.
 
 ## Objectives
 
@@ -27,4 +25,3 @@ In this stage, immerse yourself in the world of binomial trees and heaps. Discov
 
 2. **Stage 2**: Head to the BinomialHeap module, tackle the TODOs, and test your implementations using TestBinomialHeap.
 
-Feel the power of functional programming and witness the elegance of Haskell in action. Happy coding! 🌟
